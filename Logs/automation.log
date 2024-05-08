@@ -1,0 +1,10 @@
+2024-05-07 19:57:25:WARNING:There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-05-07 19:57:25:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-05-07 19:57:27:INFO:*********Test_001_login title page *********************8
+2024-05-07 19:57:28:WARNING:There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-05-07 19:57:58:INFO:*********Test_001_login title page *********************8
+2024-05-07 19:58:02:INFO:*********Homepage Title test is passed ************************
+2024-05-08 07:09:09:INFO:*********Test_001_login title page *********************8
+2024-05-08 07:09:11:INFO:*********Homepage Title test is passed ************************
+2024-05-08 07:09:40:INFO:*********Test_001_login title page *********************8
+2024-05-08 07:09:42:INFO:*********Homepage Title test is passed ************************
