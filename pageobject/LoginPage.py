@@ -15,13 +15,13 @@ class LoginPage:
        self.driver.find_element(By.ID,self.textbox_username_id).send_keys(username)
 
 
-    def setPassword(self,     password):
+    def setPassword(self, password):
         self.driver.find_element(By.ID,'Password').clear()
         self.driver.find_element(By.ID,'Password').send_keys(password)
 
     def clickLogin(self):
         self.driver.find_element(By.XPATH,"//button[contains(text(),'Log in')]").click()
 
-    def logout(self):
+    def clicklogout(self):
         self.driver.find_element(By.LINK_TEXT,'Logout').click()
 
